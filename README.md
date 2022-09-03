@@ -1,4 +1,4 @@
 ### Olá, meu nome é Victor Ribeiro
 
-- 🌱 Estaudando Python, Data Science, Processos de Automação e Django
+- 🌱 Estaudando Python e Java.
 - 💬 Contate-me no email: victorcesargomesribeiro@gmail.com
